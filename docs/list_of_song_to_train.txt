@@ -1,0 +1,157 @@
+Список песен, на которых обучались модели.
+
+Рок:
+1. The Beatles - A Hard Day’s Night
+2. The Beatles - Act Naturally
+3. The Beatles - All My Loving
+4. The Beatles - And I Love Her
+5. The Beatles - And You’re Bird Can Sing
+6. The Beatles - Baby It’s You
+7. The Beatles - Baby’s in Black
+8. The Beatles - Back in the USSR
+9. The Beatles - Boys
+10. The Beatles - Can’t Buy Me Love
+11. The Beatles - Come Together
+12. The Beatles - Dig a Pony
+13. The Beatles - Don’t Bother Me
+14. The Beatles - Drive My Car
+15. The Beatles - Every Little Thing
+16. The Beatles - Fixing a Hole
+17. The Beatles - Free as a Bird
+18. The Beatles - Helter Skelter
+19. The Beatles - Hey Bulldog
+20. The Beatles - I Feel Fine
+21. The Beatles - I Saw Her Standing There
+22. The Beatles - Octupus's Garden
+23. The Beatles - One After 909
+24. The Beatles - Roll Over Beethoven
+25. The Beatles - Something
+26. The Beatles - Taxman
+27. The Beatles - While My Guitar Gently Weeps
+28. The Rolling Stones - Can’t You Hear Me Knocking
+29. The Rolling Stones - Carol
+30. The Rolling Stones - Doom and Gloom
+31. The Rolling Stones - Gimme Shelter
+32. The Rolling Stones - Heart of Stone
+33. The Rolling Stones - It’s Only Rock and Roll (But I Like It)
+34. The Rolling Stones - It’s All Over Now
+35. The Rolling Stones - Jumpin’ Jack Flash
+36. The Rolling Stones - Respectable
+37. The Rolling Stones - Route 66
+38. The Rolling Stones - Susie Q
+39. The Rolling Stones - Time Waits for No One
+40. Elvis Presley - Baby Let’s Play House
+41. Elvis Presley - Blue Suede Shoes
+42. Elvis Presley - Hound Dog
+43. Elvis Presley - Just Because
+44. Elvis Presley - Mystery Train
+45. Chuck Berry - Back in the U.S.A.
+46. Chuck Berry - Johnny B. Goode
+47. Chuck Berry - Memphis, Tennessee
+48. Chuck Berry - No Particular Place to Go
+49. Chuck Berry - Roll Over Beethoven
+50. The Kinks - You Really Got Me
+
+Блюз:
+1. Eric Clapton - A Certain Girl
+2. Eric Clapton - After Midnight
+3. Eric Clapton - Badge
+4. Eric Clapton - Bell Bottom Blues
+5. Eric Clapton - Double Trouble
+6. Eric Clapton - I Ain't Got You
+7. Eric Clapton - Knocking On Heaven's Door
+8. Eric Clapton - Lawdy Mama
+9. Eric Clapton - Lay Down Sally
+10. Eric Clapton - Layla
+11. Eric Clapton - Motherless Children
+12. Eric Clapton - Outside Woman Blues
+13. Eric Clapton - Sign Language
+14. Eric Clapton - Someone Like You
+15. Eric Clapton - Sunshine Of Your Love
+16. Eric Clapton - White Room
+17. Jimi Hendrix - Ain't No Telling
+18. Jimi Hendrix - All Along The Watchtower
+19. Jimi Hendrix - Astro Man
+20. Jimi Hendrix - Bold As Love
+21. Jimi Hendrix - Come On
+22. Jimi Hendrix - Day Tripper
+23. Jimi Hendrix - Dolly Dagger
+24. Jimi Hendrix - Fire
+25. Jimi Hendrix - Foxey Lady
+26. Jimi Hendrix - Freedom
+27. Jimi Hendrix - Hey Joe
+28. Jimi Hendrix - Little Miss Lover
+29. Jimi Hendrix - Little Wing
+30. Jimi Hendrix - Manic Depression
+31. Jimi Hendrix - Spanish Castle Magic
+32. Stevie Ray Vaughan - Change It
+33. Stevie Ray Vaughan - Couldn't Stand The Weather
+34. Stevie Ray Vaughan - Crossfire
+35. Stevie Ray Vaughan - Honey Bee
+36. Stevie Ray Vaughan - Let Me Love You Baby
+37. Stevie Ray Vaughan - Love Struck Baby
+38. Stevie Ray Vaughan - Mary Had A Little Lamb
+40. Stevie Ray Vaughan - Pride And Joy
+41. Stevie Ray Vaughan - Say What
+42. Stevie Ray Vaughan - Tell Me
+43. Stevie Ray Vaughan - Tightrope
+43. B.B. King - B B Blues
+44. B.B. King - Bad Luck Soul
+45. B.B. King - Everything I Do Is Wrong
+46. B.B. King - Paying The Cost To Be The Boss
+47. B.B. King - Rock Me Baby
+48. B.B. King - Ten Long Years
+49. B.B. King - The Thrill Is Gone
+50. Muddy Waters - Honey Bee
+
+Метал:
+1. Metallica - Battery
+2. Metallica - Enter Sandman
+3. Metallica - For Whom The Bell Tolls
+4. Metallica - Fuel
+5. Metallica - Harvester Of Sorrow
+6. Metallica - Jump In The Fire
+7. Metallica - Master Of Puppets
+8. Metallica - One
+9. Metallica - Orion
+10. Metallica - Ride The Lightning
+11. Metallica - The Unforgiven
+12. Black Sabbath - Black Sabbath
+13. Black Sabbath - Children Of The Grave
+14. Black Sabbath - Headless Cross
+15. Black Sabbath - Hole In The Sky
+16. Black Sabbath - Into The Void
+17. Black Sabbath - Iron Man
+18. Black Sabbath - N.I.B.
+19. Black Sabbath - Paranoid
+20. Black Sabbath - Supernaut
+21. Black Sabbath - You Wont Change Me
+22. Judas Priest - Between The Hammer And The Anvil
+23. Judas Priest - Desert Plains
+24. Judas Priest - Hard As Iron
+25. Judas Priest - Heavy Metal
+26. Judas Priest - Hellrider
+27. Judas Priest - Jawbreaker
+28. Judas Priest - Reckless
+29. Judas Priest - Riding On The Wind
+30. Judas Priest - Savage
+31. Judas Priest - Turbo Lover
+32. Iron Maiden - Aces High
+33. Iron Maiden - Caught Somewhere In Time
+34. Iron Maiden - Chains Of Misery
+35. Iron Maiden - Children Of The Damned
+36. Iron Maiden - Fear Is The Key
+37. Iron Maiden - Flight Of Icarus
+38. Iron Maiden - Gates Of Tomorrow
+39. Iron Maiden - Mother Russia
+40. Iron Maiden - Run To The Hills
+41. Iron Maiden - Wasting Love
+42. Pantera - 10's
+43. Pantera - By Demons Be Driven
+44. Pantera - Cat Scratch Fever
+45. Pantera - Floods
+46. Pantera - Rise
+47. Pantera - Shattered
+48. Pantera - The Sleep
+49. Pantera - Walk
+50. Pantera - Where You Come From
