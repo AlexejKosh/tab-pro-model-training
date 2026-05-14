@@ -600,9 +600,12 @@ def export_solo_mp3(rhythm_string, solo_list, signature, key, genre, bpm):
 
         current_ms += int(round(duration * signature * MS_IN_MINUTE / bpm))
 
-    # Баланс громкости ритм-гитары для жанра 'рок'
     if genre == "rock":
+        # Баланс громкости ритм-гитары для жанра 'рок'
         result_audio = result_audio + 6
+    elif genre == "metal":
+        # Обрезка высоких частот ритм-гитары для жанра 'метал' для лучшего звучания
+        result_audio = result_audio.low_pass_filter(7000)
 
     # =========================
     # НАЛОЖЕНИЕ СОЛО (ДВЕ ГОЛОСА)
